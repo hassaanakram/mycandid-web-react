@@ -8,7 +8,7 @@
   
   <!-- Main Landing Page -->
   <url>
-    <loc>https://mycandid.com/</loc>
+    <loc>https://www.mycandid.social/</loc>
     <lastmod>2026-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -17,7 +17,7 @@
   <!-- Add more pages here as you create them -->
   <!-- Example:
   <url>
-    <loc>https://mycandid.com/about</loc>
+    <loc>https://www.mycandid.social/about</loc>
     <lastmod>2026-02-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

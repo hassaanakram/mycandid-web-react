@@ -13,7 +13,7 @@ export function SEOHead({
   description = 'Join MyCandid, the social media platform where authenticity is everything. Share only what you capture in the moment. No filters, no fake content - just real human connections.',
   keywords = 'authentic social media, real moments, genuine connections, unfiltered content, capture only app, authentic social network, candid moments, real social media, social media for real people',
   ogImage = 'https://images.unsplash.com/photo-1765294661150-130e24807964?w=1200&h=630&fit=crop',
-  url = 'https://mycandid.com'
+  url = 'https://www.mycandid.social'
 }: SEOHeadProps) {
   useEffect(() => {
     // Update document title
